@@ -29,8 +29,3 @@ This project is built using the following technologies:
 - React
 - Next.js
 - Tailwind CSS
-
-## Setup Instructions
-
-1.  **Clone the repository:**
-
